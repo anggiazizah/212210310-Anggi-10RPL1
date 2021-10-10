@@ -16,3 +16,4 @@ Misi SMK Negeri 5 Kabupaten Tangerang
 7.Mewujudkan kualitas lingkungan hidup sekolah.
 8.Mewujudkan suasana kerja yang nyaman, serasi dan harmonis yang didukung oleh rasa kekeluargaan.
 9.Mewujudkan kualitas pelayanan prima pada peserta didik dan stakeholder.
+
