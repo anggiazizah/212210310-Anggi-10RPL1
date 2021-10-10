@@ -6,6 +6,7 @@ Visi SMK Negeri 5 Kabupaten Tangerang
 Terwujudnya SMK Negeri 5 Kabupaten Tangerang yang cerdas, kompeten, berdaya saing, berwawasan lingkungan dan berakhlak mulia
 
 Misi SMK Negeri 5 Kabupaten Tangerang
+
 1.Mewujudkan pembelajaran berstandar nasional dan internasional.
 2.Mewujudkan sumber daya yang unggul dalam bidang akademik dan non akademik.
 3.Mewujudkan kualitas hubungan masyarakat, dunia usaha dan dunia industri.
